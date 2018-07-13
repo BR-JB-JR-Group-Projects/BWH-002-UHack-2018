@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v26\\values-v26.xml",
+            "outputFile": "/home/ben/git-repos/android/BWH-002-UHack-2018-James-Branch/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\James\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha3.aar\\8eb836f8760fae9e21830fca043c2c0f\\res\\values-v26\\values-v26.xml",
+                    "source": "/home/ben/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/998018a4253da46a84c05408082e57ab/res/values-v26/values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",

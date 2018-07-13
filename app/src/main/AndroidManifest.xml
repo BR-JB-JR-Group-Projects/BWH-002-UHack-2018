@@ -81,5 +81,4 @@
                 android:value="startup" />
         </activity>
     </application>
-
 </manifest>
