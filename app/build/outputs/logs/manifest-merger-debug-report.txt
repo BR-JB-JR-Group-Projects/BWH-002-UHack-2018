@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml:2:1-28:12
 MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /home/ben/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/998018a4253da46a84c05408082e57ab/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/ben/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/6de038ab1fd048cd2c5df00419dc333b/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /home/ben/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/04cc929335c575964e709693f4e33939/AndroidManifest.xml:17:1-22:12
@@ -30,25 +30,25 @@ MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ben/.gradle/caches/tr
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ben/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/beacf74a6be108cbdaf5ea0dda93fe66/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /home/ben/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/75d53c431fb419bd197c52f0a3664852/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:interpolator:28.0.0-alpha3] /home/ben/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/fe806bf1be615adaf5f2ae38997d4644/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml:2:1-28:12
 	package
 		ADDED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml:3:5-46
 		INJECTED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml
 		INJECTED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml
-		ADDED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml:2:1-21:12
+		ADDED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml:2:1-28:12
 		INJECTED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml
-		ADDED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml:2:1-21:12
+		ADDED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml:2:1-28:12
 		INJECTED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml:5:5-19:19
+ADDED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml:5:5-26:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/ben/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/6de038ab1fd048cd2c5df00419dc333b/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/ben/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/6de038ab1fd048cd2c5df00419dc333b/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:support-compat:28.0.0-alpha3] /home/ben/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/bc8d058adea4eeeaf0d3e384adea6f2e/AndroidManifest.xml:22:5-94

@@ -7,12 +7,25 @@
     tools:context=".main">
 
     <TextView
+        android:id="@+id/so"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
+        android:text="This is me!"
+        android:visibility="visible"
         app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0"
+        tools:text="This is me!" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="92dp"
+        android:layout_height="82dp"
+        android:text="Button 1"
+        tools:layout_editor_absoluteX="114dp"
+        tools:layout_editor_absoluteY="85dp" />
 
 </android.support.constraint.ConstraintLayout>
