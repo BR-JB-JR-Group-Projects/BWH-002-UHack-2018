@@ -1,45 +1,49 @@
 package com.rbrsolutionsgmail.connector;
+import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
+import android.util.Log;
+import android.view.MenuItem;
 import android.view.View;
 import android.content.Intent;
 import android.widget.Button;
 
 import android.support.v4.widget.DrawerLayout;
-import android.support.v7.app.ActionBarDrawerToggle;
+import android.support.design.widget.NavigationView;
 import android.widget.ImageView;
 import android.widget.TextView;
 
 public class startup extends AppCompatActivity {
 
+    private DrawerLayout mDrawerLayout;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_startup);
-        Toolbar toolbar = findViewById(R.id.toolbar_layout);
+
+        mDrawerLayout = findViewById(R.id.drawer_layout);
+
+        Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        Button scanCodeButton = findViewById(R.id.scanCode);
-        if (scanCodeButton != null) {
-            scanCodeButton.setOnClickListener(new View.OnClickListener() {
-                //problem here
-                public void onClick(View view) {
-                    Intent fi_intent = new Intent(startup.this, code_scanner.class);
-                    startActivity(fi_intent);
-                }
-            });
-        }
+        NavigationView navigationView = findViewById(R.id.nav_view);
 
-        Button loginButton = findViewById(R.id.login);
-        if (loginButton != null) {
-            loginButton.setOnClickListener(new View.OnClickListener() {
-                //problem here
-                public void onClick(View view) {
-                    Intent fi_intent = new Intent(startup.this, login.class);
-                    startActivity(fi_intent);
-                }
-            });
-        }
+        navigationView.setNavigationItemSelectedListener(
+                new NavigationView.OnNavigationItemSelectedListener() {
+                    @Override
+                    public boolean onNavigationItemSelected(MenuItem menuItem) {
+                        // set item as selected to persist highlight
+                        menuItem.setChecked(true);
+                        // close drawer when item is tapped
+                        mDrawerLayout.closeDrawers();
+
+                        // Add code here to update the UI based on the item selected
+                        // For example, swap UI fragments here
+
+                        return true;
+                    }
+                });
     }
 }
