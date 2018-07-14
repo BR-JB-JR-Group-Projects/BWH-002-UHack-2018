@@ -12,12 +12,12 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <!-- Layout to contain contents of main body of screen (drawer will slide over this) -->
         <FrameLayout
             android:id="@+id/content_frame"
             android:layout_width="match_parent"
             android:layout_height="match_parent" >
 
+            <!-- All activity XML goes here -->
             <LinearLayout
                 xmlns:android="http://schemas.android.com/apk/res/android"
                 xmlns:tools="http://schemas.android.com/tools"
@@ -25,47 +25,45 @@
                 android:layout_height="match_parent"
                 android:fitsSystemWindows="true"
                 android:orientation="vertical">
-
+                <!-- Mandatory toolbar include -->
                 <include
                     android:id="@+id/toolbar"
                     layout="@layout/toolbar_layout"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    />
+                    android:layout_height="wrap_content"/>
 
                 <Button
                     android:id="@+id/scanCode"
-                    android:background="@drawable/roundcorner"
-                    android:layout_width="wrap_content"
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_marginLeft="16dp"
+                    android:layout_marginHorizontal="16dp"
                     android:layout_marginTop="16dp"
+                    android:layout_marginBottom="16dp"
+                    android:background="@drawable/roundcorner"
                     android:text="@string/scan_text"
                     android:visibility="visible"
                     app:layout_constraintTop_toBottomOf="@id/toolbar"/>
 
                 <Button
                     android:id="@+id/login"
-                    android:background="@color/colorPrimary"
-                    android:layout_width="wrap_content"
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_marginLeft="16dp"
-                    android:layout_marginTop="16dp"
+                    android:layout_marginHorizontal="16dp"
+                    android:layout_marginVertical="16dp"
+                    android:background="@drawable/roundcorner"
                     android:text="@string/login_text"
-                    android:visibility="visible"
-                    app:layout_constraintStart_toEndOf="@id/scanCode"
-                    app:layout_constraintTop_toBottomOf="@id/toolbar"/>
-
+                    android:visibility="visible"/>
             </LinearLayout>
         </FrameLayout>
 
-        <!-- Container for contents of drawer - use NavigationView to make configuration easier -->
         <android.support.design.widget.NavigationView
             android:id="@+id/nav_view"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_gravity="start"
-            android:fitsSystemWindows="true" />
-
+            android:fitsSystemWindows="true"
+            android:background="@color/background"
+            app:menu="@menu/navbar_content"
+            app:headerLayout="@layout/navbar_header" />
     </android.support.v4.widget.DrawerLayout>
 </android.support.constraint.ConstraintLayout>

@@ -1,4 +1,6 @@
 package com.rbrsolutionsgmail.connector;
+import android.content.Context;
+import android.support.constraint.ConstraintLayout;
 import android.support.v4.view.GravityCompat;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
@@ -13,17 +15,45 @@ import android.widget.Button;
 import android.support.v4.widget.DrawerLayout;
 import android.support.design.widget.NavigationView;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 
 public class startup extends AppCompatActivity {
 
     private DrawerLayout mDrawerLayout;
+    private final int activity = R.id.nav_home;
+    private final Context current_context = startup.this;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_startup);
 
+        global_variables.data.name = "James Benson";
+        global_variables.data.url = "jamesdavidbenson@gmail.com";
+        global_variables.data.event = "Event Name: UHack";
+
+        //General setup function, copy module for each activity (includes sidebar and taskbar
+        instanceGUI();
+
+        //OUR STUFF GOES HERE
+        Button scan = findViewById(R.id.scanCode);
+        scan.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                Intent i = new Intent(startup.this, code_scanner.class);
+                startActivity(i);
+            }
+        });
+        Button login_button = findViewById(R.id.login);
+        login_button.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                Intent i = new Intent(startup.this, login.class);
+                startActivity(i);
+            }
+        });
+    }
+
+    public void instanceGUI(){
         mDrawerLayout = findViewById(R.id.drawer_layout);
 
         Toolbar toolbar = findViewById(R.id.toolbar);
@@ -34,22 +64,77 @@ public class startup extends AppCompatActivity {
         actionbar.setHomeAsUpIndicator(R.drawable.ic_menu);
 
         NavigationView navigationView = findViewById(R.id.nav_view);
+        navigationView.setCheckedItem(activity);
 
         navigationView.setNavigationItemSelectedListener(
                 new NavigationView.OnNavigationItemSelectedListener() {
                     @Override
                     public boolean onNavigationItemSelected(MenuItem menuItem) {
-                        // set item as selected to persist highlight
                         menuItem.setChecked(true);
-                        // close drawer when item is tapped
                         mDrawerLayout.closeDrawers();
 
-                        // Add code here to update the UI based on the item selected
-                        // For example, swap UI fragments here
+                        int id = menuItem.getItemId();
+                        Intent i;
+                        //If we've selected a different menu, move somewhere
+                        if(id != activity) {
+                            switch(id){
+                                case R.id.nav_home:
+                                    i = new Intent(current_context, startup.class);
+                                    startActivity(i);
+                                    break;
+                                case R.id.nav_connect:
+                                    i = new Intent(current_context, connect.class);
+                                    startActivity(i);
+                                    break;
+                                case R.id.nav_schedule:
+                                    i = new Intent(current_context, schedule.class);
+                                    startActivity(i);
+                                    break;
+                                case R.id.nav_settings:
+                                    i = new Intent(current_context, settings.class);
+                                    startActivity(i);
+                                    break;
+                                case R.id.nav_bt:
+                                    break;
+                                case R.id.nav_support:
+                                    break;
+                                case R.id.nav_about:
+                                    i = new Intent(current_context, code_scanner.class);
+                                    startActivity(i);
+                                    break;
+                            }
 
+                        }
                         return true;
                     }
                 });
+        mDrawerLayout.addDrawerListener(
+                new DrawerLayout.DrawerListener() {
+                    @Override
+                    public void onDrawerSlide(View drawerView, float slideOffset) {
+                        // Respond when the drawer is opened
+                        TextView text = findViewById(R.id.user_text);
+                        text.setText(global_variables.data.name);
+                        text = findViewById(R.id.url_text);
+                        text.setText(global_variables.data.url);
+                        text = findViewById(R.id.event_text);
+                        text.setText(global_variables.data.event);
+                    }
+
+                    @Override
+                    public void onDrawerOpened(View drawerView) {
+                    }
+
+                    @Override
+                    public void onDrawerClosed(View drawerView) {
+                        // Respond when the drawer is closed
+                    }
+
+                    @Override
+                    public void onDrawerStateChanged(int newState) {
+                        // Respond when the drawer motion state changes
+                    }
+                } );
     }
 
     @Override
@@ -61,5 +146,4 @@ public class startup extends AppCompatActivity {
         }
         return super.onOptionsItemSelected(item);
     }
-
 }
