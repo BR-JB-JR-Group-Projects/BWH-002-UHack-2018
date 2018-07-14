@@ -25,7 +25,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-<<<<<<< HEAD
+
         <activity
             android:name="code_scanner"
             android:label="@string/title_code_scanner"
@@ -81,16 +81,6 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="startup" />
         </activity>
-=======
-        <activity android:name=".summary">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
-
->>>>>>> master
     </application>
 
 </manifest>

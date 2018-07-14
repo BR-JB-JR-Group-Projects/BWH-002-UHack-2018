@@ -17,21 +17,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:testOnly="true"
-<<<<<<< HEAD
         android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
         android:testOnly="true">
         <activity android:name="com.rbrsolutionsgmail.connector.startup" >
-=======
-        android:theme="@style/AppTheme" >
-        <activity android:name="com.rbrsolutionsgmail.connector.main" >
->>>>>>> master
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-<<<<<<< HEAD
         <activity
             android:name="com.rbrsolutionsgmail.connector.code_scanner"
             android:label="@string/title_code_scanner"
@@ -86,14 +80,6 @@
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="startup" />
-=======
-        <activity android:name="com.rbrsolutionsgmail.connector.main" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
->>>>>>> master
         </activity>
     </application>
 
