@@ -5116,7 +5116,7 @@ public final class R {
     public static final int activity_scanner=0x7f0b001e;
     public static final int activity_schedule=0x7f0b001f;
     public static final int activity_settings=0x7f0b0020;
-    public static final int activity_startup=0x7f0b0021;
+    public static final int activity_home =0x7f0b0021;
     public static final int activity_summary=0x7f0b0022;
     public static final int design_bottom_navigation_item=0x7f0b0023;
     public static final int design_bottom_sheet_dialog=0x7f0b0024;
