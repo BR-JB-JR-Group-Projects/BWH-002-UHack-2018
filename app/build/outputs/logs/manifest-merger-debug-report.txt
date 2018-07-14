@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:2:1-86:12
-INJECTED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:2:1-86:12
-INJECTED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:2:1-86:12
-INJECTED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:2:1-86:12
+ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:2:1-78:12
+INJECTED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:2:1-78:12
+INJECTED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:2:1-78:12
+INJECTED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:2:1-78:12
 MERGED from [com.android.support:design:28.0.0-alpha1] C:\Users\James\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha1.aar\eeba4ed7c2dcdf0c0005473ee548a45f\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:design-bottomappbar:28.0.0-alpha1] C:\Users\James\.gradle\caches\transforms-1\files-1.1\design-bottomappbar-28.0.0-alpha1.aar\14b1ea2b18ec19d612d9683c2da02945\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:design-theme:28.0.0-alpha1] C:\Users\James\.gradle\caches\transforms-1\files-1.1\design-theme-28.0.0-alpha1.aar\7051699f9b2ee8ba0f26863b937763b3\AndroidManifest.xml:17:1-24:12
@@ -64,9 +64,9 @@ MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\James\.gra
 MERGED from [com.android.support:design-color:28.0.0-alpha1] C:\Users\James\.gradle\caches\transforms-1\files-1.1\design-color-28.0.0-alpha1.aar\504251b5045fa58fabc6a8e7d96f18c3\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:design-math:28.0.0-alpha1] C:\Users\James\.gradle\caches\transforms-1\files-1.1\design-math-28.0.0-alpha1.aar\cbdde5ec13cb42f0462127fbf26e7a31\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:design-snackbar:28.0.0-alpha1] C:\Users\James\.gradle\caches\transforms-1\files-1.1\design-snackbar-28.0.0-alpha1.aar\5214d73d6c36e1952da9bc78dc8f97a1\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:2:1-86:12
-INJECTED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:2:1-86:12
-INJECTED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:2:1-78:12
+INJECTED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:2:1-78:12
+INJECTED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:2:1-78:12
 	package
 		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:3:5-46
 		INJECTED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml
@@ -216,7 +216,7 @@ INJECTED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\An
 		INJECTED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:11:5-84:19
+ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:11:5-76:19
 MERGED from [com.android.support:design:28.0.0-alpha1] C:\Users\James\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha1.aar\eeba4ed7c2dcdf0c0005473ee548a45f\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0-alpha1] C:\Users\James\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha1.aar\eeba4ed7c2dcdf0c0005473ee548a45f\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design-bottomappbar:28.0.0-alpha1] C:\Users\James\.gradle\caches\transforms-1\files-1.1\design-bottomappbar-28.0.0-alpha1.aar\14b1ea2b18ec19d612d9683c2da02945\AndroidManifest.xml:22:5-20
@@ -299,10 +299,10 @@ MERGED from [com.android.support:design-snackbar:28.0.0-alpha1] C:\Users\James\.
 		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:12:9-35
 	android:theme
 		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:18:9-65
-activity#com.rbrsolutionsgmail.connector.startup
+activity#com.rbrsolutionsgmail.connector.Home
 ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:21:9-27:20
 	android:name
-		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:21:19-73
+		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:21:19-70
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
@@ -313,63 +313,55 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:25:17-77
 	android:name
 		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:25:27-74
-activity#com.rbrsolutionsgmail.connector.code_scanner
+activity#com.rbrsolutionsgmail.connector.Scanner
 ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:29:9-36:20
 	android:parentActivityName
-		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:32:13-50
+		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:32:13-47
 	android:label
 		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:31:13-55
 	android:name
-		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:30:13-40
+		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:30:13-35
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:33:13-35:43
+ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:33:13-35:40
 	android:value
-		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:35:17-40
+		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:35:17-37
 	android:name
 		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:34:17-63
-activity#com.rbrsolutionsgmail.connector.login
+activity#com.rbrsolutionsgmail.connector.Login
 ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:37:9-44:20
 	android:parentActivityName
-		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:40:13-50
+		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:40:13-47
 	android:label
 		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:39:13-48
 	android:name
 		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:38:13-33
-activity#com.rbrsolutionsgmail.connector.connect
+activity#com.rbrsolutionsgmail.connector.Connect
 ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:45:9-52:20
 	android:parentActivityName
-		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:48:13-50
+		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:48:13-47
 	android:label
 		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:47:13-50
 	android:name
 		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:46:13-35
-activity#com.rbrsolutionsgmail.connector.home
+activity#com.rbrsolutionsgmail.connector.Schedule
 ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:53:9-60:20
 	android:parentActivityName
-		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:56:13-50
+		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:56:13-47
 	android:label
-		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:55:13-47
+		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:55:13-51
 	android:name
-		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:54:13-32
-activity#com.rbrsolutionsgmail.connector.schedule
+		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:54:13-36
+activity#com.rbrsolutionsgmail.connector.Settings
 ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:61:9-68:20
 	android:parentActivityName
-		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:64:13-50
+		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:64:13-47
 	android:label
 		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:63:13-51
 	android:name
 		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:62:13-36
-activity#com.rbrsolutionsgmail.connector.settings
-ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:69:9-76:20
+activity#com.rbrsolutionsgmail.connector.Summary
+ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:69:9-75:20
 	android:parentActivityName
-		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:72:13-50
-	android:label
-		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:71:13-51
+		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:71:13-47
 	android:name
-		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:70:13-36
-activity#com.rbrsolutionsgmail.connector.summary
-ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:77:9-83:20
-	android:parentActivityName
-		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:79:13-50
-	android:name
-		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:78:13-35
+		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:70:13-35

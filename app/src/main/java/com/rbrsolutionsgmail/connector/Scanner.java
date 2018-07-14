@@ -11,19 +11,18 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.AdapterView;
 import android.widget.TextView;
 
-public class code_scanner extends AppCompatActivity {
+public class Scanner extends AppCompatActivity {
 
     private DrawerLayout mDrawerLayout;
     private final int activity = R.id.nav_connect;
-    private final Context current_context = code_scanner.this;
+    private final Context current_context = Scanner.this;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_code_scanner);
+        setContentView(R.layout.activity_scanner);
         instanceGUI();
 
         //OUR STUFF GOES HERE
@@ -55,19 +54,19 @@ public class code_scanner extends AppCompatActivity {
                         if(id != activity) {
                             switch(id){
                                 case R.id.nav_home:
-                                    i = new Intent(current_context, startup.class);
+                                    i = new Intent(current_context, Home.class);
                                     startActivity(i);
                                     break;
                                 case R.id.nav_connect:
-                                    i = new Intent(current_context, connect.class);
+                                    i = new Intent(current_context, Connect.class);
                                     startActivity(i);
                                     break;
                                 case R.id.nav_schedule:
-                                    i = new Intent(current_context, schedule.class);
+                                    i = new Intent(current_context, Schedule.class);
                                     startActivity(i);
                                     break;
                                 case R.id.nav_settings:
-                                    i = new Intent(current_context, settings.class);
+                                    i = new Intent(current_context, Settings.class);
                                     startActivity(i);
                                     break;
                                 case R.id.nav_bt:
@@ -75,8 +74,6 @@ public class code_scanner extends AppCompatActivity {
                                 case R.id.nav_support:
                                     break;
                                 case R.id.nav_about:
-                                    i = new Intent(current_context, code_scanner.class);
-                                    startActivity(i);
                                     break;
                             }
 

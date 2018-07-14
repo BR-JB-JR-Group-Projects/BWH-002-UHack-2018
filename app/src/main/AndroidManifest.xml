@@ -18,7 +18,7 @@
         android:theme="@style/Theme.AppCompat.Light.NoActionBar">
         android:testOnly="true">
 
-        <activity android:name="com.rbrsolutionsgmail.connector.startup" >
+        <activity android:name="com.rbrsolutionsgmail.connector.Home" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -27,59 +27,51 @@
         </activity>
 
         <activity
-            android:name="code_scanner"
+            android:name="Scanner"
             android:label="@string/title_code_scanner"
-            android:parentActivityName=".startup">
+            android:parentActivityName=".Home">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="startup" />
+                android:value="Home" />
         </activity>
         <activity
-            android:name="login"
+            android:name="Login"
             android:label="@string/title_login"
-            android:parentActivityName=".startup">
+            android:parentActivityName=".Home">
         <meta-data
             android:name="android.support.PARENT_ACTIVITY"
-            android:value="startup" />
+            android:value="Home" />
         </activity>
         <activity
-            android:name="connect"
+            android:name="Connect"
             android:label="@string/title_connect"
-            android:parentActivityName=".startup">
+            android:parentActivityName=".Home">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="startup" />
+                android:value="Home" />
         </activity>
         <activity
-            android:name="home"
-            android:label="@string/title_home"
-            android:parentActivityName=".startup">
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="startup" />
-        </activity>
-        <activity
-            android:name="schedule"
+            android:name="Schedule"
             android:label="@string/title_schedule"
-            android:parentActivityName=".startup">
+            android:parentActivityName=".Home">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="startup" />
+                android:value="Home" />
         </activity>
         <activity
-            android:name="settings"
+            android:name="Settings"
             android:label="@string/title_settings"
-            android:parentActivityName=".startup">
+            android:parentActivityName=".Home">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="startup" />
+                android:value="Home" />
         </activity>
         <activity
-            android:name="summary"
-            android:parentActivityName=".startup">
+            android:name="Summary"
+            android:parentActivityName=".Home">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="startup" />
+                android:value="Home" />
         </activity>
     </application>
 
