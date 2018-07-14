@@ -176,12 +176,12 @@
         "source": "C:\\Users\\James\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha3.aar\\8eb836f8760fae9e21830fca043c2c0f\\res\\color\\abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
-        "source": "C:\\Users\\James\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha3.aar\\8eb836f8760fae9e21830fca043c2c0f\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
-    },
-    {
         "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\James\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha3.aar\\8eb836f8760fae9e21830fca043c2c0f\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\James\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha3.aar\\8eb836f8760fae9e21830fca043c2c0f\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
     },
     {
         "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
@@ -268,6 +268,10 @@
         "source": "C:\\Users\\James\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha3.aar\\8eb836f8760fae9e21830fca043c2c0f\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
+        "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable_roundcorner.xml.flat",
+        "source": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\src\\main\\res\\drawable\\roundcorner.xml"
+    },
+    {
         "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
@@ -316,12 +320,12 @@
         "source": "C:\\Users\\James\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha3.aar\\8eb836f8760fae9e21830fca043c2c0f\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\James\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha3.aar\\8eb836f8760fae9e21830fca043c2c0f\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\James\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha3.aar\\8eb836f8760fae9e21830fca043c2c0f\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\James\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha3.aar\\8eb836f8760fae9e21830fca043c2c0f\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
@@ -348,12 +352,12 @@
         "source": "C:\\Users\\James\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-alpha3.aar\\cca136fed13a321b62a37ca7234a3ba1\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
-        "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
-        "source": "C:\\Users\\James\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha3.aar\\8eb836f8760fae9e21830fca043c2c0f\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
-    },
-    {
         "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_button_bar_material.xml.flat",
         "source": "C:\\Users\\James\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha3.aar\\8eb836f8760fae9e21830fca043c2c0f\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\James\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha3.aar\\8eb836f8760fae9e21830fca043c2c0f\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
     },
     {
         "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -440,12 +444,12 @@
         "source": "C:\\Users\\James\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha3.aar\\8eb836f8760fae9e21830fca043c2c0f\\res\\color-v23\\abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_cascading_menu_item_layout.xml.flat",
-        "source": "C:\\Users\\James\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha3.aar\\8eb836f8760fae9e21830fca043c2c0f\\res\\layout\\abc_cascading_menu_item_layout.xml"
-    },
-    {
         "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\James\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha3.aar\\8eb836f8760fae9e21830fca043c2c0f\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_cascading_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\James\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha3.aar\\8eb836f8760fae9e21830fca043c2c0f\\res\\layout\\abc_cascading_menu_item_layout.xml"
     },
     {
         "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_expanded_menu_layout.xml.flat",
@@ -482,6 +486,14 @@
     {
         "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "C:\\Users\\James\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha3.aar\\8eb836f8760fae9e21830fca043c2c0f\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_startup.xml.flat",
+        "source": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\src\\main\\res\\layout\\activity_startup.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_navbar_layout.xml.flat",
+        "source": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\src\\main\\res\\layout\\navbar_layout.xml"
     },
     {
         "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -540,12 +552,12 @@
         "source": "C:\\Users\\James\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha3.aar\\8eb836f8760fae9e21830fca043c2c0f\\res\\layout-watch-v20\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
-        "source": "C:\\Users\\James\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha3.aar\\8eb836f8760fae9e21830fca043c2c0f\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
-    },
-    {
         "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
         "source": "C:\\Users\\James\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha3.aar\\8eb836f8760fae9e21830fca043c2c0f\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\James\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha3.aar\\8eb836f8760fae9e21830fca043c2c0f\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
     },
     {
         "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_tooltip_enter.xml.flat",
@@ -558,6 +570,10 @@
     {
         "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_borderless_text_material.xml.flat",
         "source": "C:\\Users\\James\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha3.aar\\8eb836f8760fae9e21830fca043c2c0f\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_navbar_header.xml.flat",
+        "source": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\src\\main\\res\\layout\\navbar_header.xml"
     },
     {
         "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
@@ -592,12 +608,12 @@
         "source": "C:\\Users\\James\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-alpha3.aar\\cca136fed13a321b62a37ca7234a3ba1\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
-        "source": "C:\\Users\\James\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha3.aar\\8eb836f8760fae9e21830fca043c2c0f\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
         "source": "C:\\Users\\James\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-alpha3.aar\\cca136fed13a321b62a37ca7234a3ba1\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\James\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha3.aar\\8eb836f8760fae9e21830fca043c2c0f\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_title_material.xml.flat",
@@ -644,12 +660,12 @@
         "source": "C:\\Users\\James\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha3.aar\\8eb836f8760fae9e21830fca043c2c0f\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\James\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha3.aar\\8eb836f8760fae9e21830fca043c2c0f\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_bottom.xml.flat",
         "source": "C:\\Users\\James\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha3.aar\\8eb836f8760fae9e21830fca043c2c0f\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\James\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha3.aar\\8eb836f8760fae9e21830fca043c2c0f\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_content_include.xml.flat",
@@ -746,6 +762,10 @@
     {
         "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_dark.xml.flat",
         "source": "C:\\Users\\James\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha3.aar\\8eb836f8760fae9e21830fca043c2c0f\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
         "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_light.xml.flat",
@@ -864,10 +884,6 @@
         "source": "C:\\Users\\James\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha3.aar\\8eb836f8760fae9e21830fca043c2c0f\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
         "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
         "source": "C:\\Users\\James\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-alpha3.aar\\cca136fed13a321b62a37ca7234a3ba1\\res\\drawable\\notification_icon_background.xml"
     },
@@ -946,6 +962,10 @@
     {
         "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_icon.xml.flat",
         "source": "C:\\Users\\James\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha3.aar\\8eb836f8760fae9e21830fca043c2c0f\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar_layout.xml.flat",
+        "source": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\src\\main\\res\\layout\\toolbar_layout.xml"
     },
     {
         "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
@@ -1322,6 +1342,10 @@
     {
         "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\James\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-alpha3.aar\\8eb836f8760fae9e21830fca043c2c0f\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\menu_navbar_content.xml.flat",
+        "source": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\src\\main\\res\\menu\\navbar_content.xml"
     },
     {
         "merged": "C:\\Users\\James\\Documents\\GitHub\\BWH-002-UHack-2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
