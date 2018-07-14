@@ -1,5 +1,6 @@
 -- Merging decision tree log ---
 manifest
+<<<<<<< HEAD
 ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:2:1-85:12
 INJECTED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:2:1-85:12
 INJECTED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:2:1-85:12
@@ -67,14 +68,59 @@ MERGED from [com.android.support:design-snackbar:28.0.0-alpha1] C:\Users\James\.
 INJECTED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:2:1-85:12
 INJECTED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:2:1-85:12
 INJECTED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:2:1-85:12
+=======
+ADDED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /home/ben/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/998018a4253da46a84c05408082e57ab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/ben/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/6de038ab1fd048cd2c5df00419dc333b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /home/ben/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/04cc929335c575964e709693f4e33939/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /home/ben/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/3be46d66b482b0fd5753030b339ad832/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /home/ben/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/e813e065f960ffeff34090863e872ab9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /home/ben/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/39a94f81501c3e3355710d5e3d1ed72d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /home/ben/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/a4b3f0312a0968cc44986d8df872bf4a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha3] /home/ben/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/c57e71c7fbc818669d22f2cd65e83976/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /home/ben/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/46ff57d3b156df62efa60cc8d768c642/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /home/ben/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/e76418c2ce952b2063db430f25e2c9ea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /home/ben/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/98ae7c16df44b04c6f9c9976ac01153a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /home/ben/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/27cb260c353df75a9dd9f3b6362a07c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-alpha3] /home/ben/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/303d8e5c3ab91b007d48c4780af0052e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /home/ben/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/3110afa719137d2107b6b3233f957fa7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /home/ben/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/94413f73f6e5193e89d17aa953eaa057/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /home/ben/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/bc8d058adea4eeeaf0d3e384adea6f2e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /home/ben/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/e0ee97f35bd891aa406f018b8d9145d0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/ben/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/40a1d114245065e61122bdfcd448720e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /home/ben/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/67f0ec1b737a21790d9a000f29e1cfa9/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /home/ben/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/21dc2a6f40218a806242f2f59b6d1e83/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /home/ben/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/f6971f9781749407c13aad9dcdc906d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-alpha3] /home/ben/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/7daeea7ce2be0a6a82484f205b239c66/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ben/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c76a21b037d18872564df87f399c7016/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ben/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/beacf74a6be108cbdaf5ea0dda93fe66/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/ben/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/75d53c431fb419bd197c52f0a3664852/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /home/ben/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/fe806bf1be615adaf5f2ae38997d4644/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml:2:1-28:12
+>>>>>>> master
 	package
 		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:3:5-46
 		INJECTED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml
 	android:versionName
+<<<<<<< HEAD
 		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:5:5-30
 		INJECTED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml
+=======
+		INJECTED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml
+		ADDED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml
+		ADDED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml
+>>>>>>> master
 	xmlns:android
 		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
@@ -216,6 +262,7 @@ INJECTED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\An
 		INJECTED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml
 application
+<<<<<<< HEAD
 ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:11:5-83:19
 MERGED from [com.android.support:design:28.0.0-alpha1] C:\Users\James\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha1.aar\eeba4ed7c2dcdf0c0005473ee548a45f\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0-alpha1] C:\Users\James\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha1.aar\eeba4ed7c2dcdf0c0005473ee548a45f\AndroidManifest.xml:22:5-20
@@ -285,6 +332,17 @@ MERGED from [com.android.support:design-math:28.0.0-alpha1] C:\Users\James\.grad
 MERGED from [com.android.support:design-math:28.0.0-alpha1] C:\Users\James\.gradle\caches\transforms-1\files-1.1\design-math-28.0.0-alpha1.aar\cbdde5ec13cb42f0462127fbf26e7a31\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design-snackbar:28.0.0-alpha1] C:\Users\James\.gradle\caches\transforms-1\files-1.1\design-snackbar-28.0.0-alpha1.aar\5214d73d6c36e1952da9bc78dc8f97a1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design-snackbar:28.0.0-alpha1] C:\Users\James\.gradle\caches\transforms-1\files-1.1\design-snackbar-28.0.0-alpha1.aar\5214d73d6c36e1952da9bc78dc8f97a1\AndroidManifest.xml:22:5-20
+=======
+ADDED from /home/ben/git-repos/android/ConConnect/app/src/main/AndroidManifest.xml:5:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/ben/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/6de038ab1fd048cd2c5df00419dc333b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/ben/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/6de038ab1fd048cd2c5df00419dc333b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /home/ben/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/bc8d058adea4eeeaf0d3e384adea6f2e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /home/ben/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/bc8d058adea4eeeaf0d3e384adea6f2e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /home/ben/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/67f0ec1b737a21790d9a000f29e1cfa9/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /home/ben/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/67f0ec1b737a21790d9a000f29e1cfa9/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-alpha3] /home/ben/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/bc8d058adea4eeeaf0d3e384adea6f2e/AndroidManifest.xml:22:18-91
+>>>>>>> master
 	android:supportsRtl
 		ADDED from C:\Users\James\Documents\GitHub\BWH-002-UHack-2018\app\src\main\AndroidManifest.xml:17:9-35
 	android:label

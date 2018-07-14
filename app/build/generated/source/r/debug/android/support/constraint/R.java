@@ -67,6 +67,7 @@ public final class R {
         public static final int layout_optimizationLevel = 0x7f030169;
     }
     public static final class id {
+<<<<<<< HEAD
         public static final int barrier = 0x7f08001f;
         public static final int bottom = 0x7f080022;
         public static final int chains = 0x7f080027;
@@ -87,6 +88,28 @@ public final class R {
         public static final int start = 0x7f0800a8;
         public static final int top = 0x7f0800bf;
         public static final int wrap = 0x7f0800ce;
+=======
+        public static final int barrier = 0x7f07001e;
+        public static final int bottom = 0x7f070021;
+        public static final int chains = 0x7f070027;
+        public static final int dimensions = 0x7f070033;
+        public static final int direct = 0x7f070034;
+        public static final int end = 0x7f070037;
+        public static final int gone = 0x7f07003e;
+        public static final int invisible = 0x7f070047;
+        public static final int left = 0x7f070049;
+        public static final int none = 0x7f070052;
+        public static final int packed = 0x7f070057;
+        public static final int parent = 0x7f070058;
+        public static final int percent = 0x7f07005a;
+        public static final int right = 0x7f07005e;
+        public static final int spread = 0x7f070077;
+        public static final int spread_inside = 0x7f070078;
+        public static final int standard = 0x7f07007c;
+        public static final int start = 0x7f07007d;
+        public static final int top = 0x7f07008c;
+        public static final int wrap = 0x7f070092;
+>>>>>>> master
     }
     public static final class styleable {
         public static final int[] ConstraintLayout_Layout = { 0x010100c4, 0x0101011f, 0x01010120, 0x0101013f, 0x01010140, 0x7f030039, 0x7f03003a, 0x7f030068, 0x7f0300ae, 0x7f0300af, 0x7f03012e, 0x7f03012f, 0x7f030130, 0x7f030131, 0x7f030132, 0x7f030133, 0x7f030134, 0x7f030135, 0x7f030136, 0x7f030137, 0x7f030138, 0x7f030139, 0x7f03013a, 0x7f03013b, 0x7f03013c, 0x7f03013d, 0x7f03013e, 0x7f03013f, 0x7f030140, 0x7f030141, 0x7f030142, 0x7f030143, 0x7f030144, 0x7f030145, 0x7f030146, 0x7f030147, 0x7f030148, 0x7f030149, 0x7f03014a, 0x7f03014b, 0x7f03014c, 0x7f03014d, 0x7f03014e, 0x7f03014f, 0x7f030150, 0x7f030151, 0x7f030152, 0x7f030153, 0x7f030154, 0x7f030155, 0x7f030156, 0x7f030158, 0x7f030159, 0x7f03015d, 0x7f03015e, 0x7f03015f, 0x7f030160, 0x7f030161, 0x7f030162, 0x7f030169 };
